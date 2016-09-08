@@ -1,0 +1,27 @@
+{
+  "name": "basic-katakana",
+  "version": "1.0.0",
+  "description": "The 46 basic Japanese katakana characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Japanese",
+    "nihongo",
+    "katakana",
+    "kana",
+    "language",
+    "characters"
+  ],
+  "author": "Darren Lester <dsslester@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darren-lester/basic-katakana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darren-lester/basic-katakana/issues"
+  },
+  "homepage": "https://github.com/darren-lester/basic-katakana#readme"
+}
